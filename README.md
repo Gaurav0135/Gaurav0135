@@ -10,7 +10,7 @@ I’m passionate about building practical projects, learning new technologies, a
 ## 🚀 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** (2022–2026)
-- 🌱 Currently learning **Web-developer & DevOps-Eng.**
+- 🌱 Currently learning **Web-development & DevOps-Eng.**
 - 💡 Interested in **Software Development, Data Analytics & Cloud**
 - 🛠️ Love working on real-world projects
 
