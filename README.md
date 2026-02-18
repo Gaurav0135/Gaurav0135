@@ -28,10 +28,6 @@ I’m passionate about building practical projects, learning new technologies, a
 - Node, Express
 - Git, GitHub
 
-**Data & Analytics**
-- Data Analysis
-- Data Visualization
-- Python Libraries (NumPy, Pandas, Matplotlib)
 
 **Tools & Platforms**
 - Git
