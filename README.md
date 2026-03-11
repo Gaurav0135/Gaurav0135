@@ -21,7 +21,7 @@ I’m passionate about building practical projects, learning new technologies, a
 **Programming Languages**
 - JavaScript
 - Java
-- SQL
+- MongoDb
 
 **Web & Development**
 - HTML, CSS, JavaScript, React
@@ -39,13 +39,12 @@ I’m passionate about building practical projects, learning new technologies, a
 
 ## 📂 Projects
 
-🔹 **Trading-Platform**  
+🔹 **Zerodha-Clone - Trading-Platform**  
 - A Zerodha Clone  
 - Focus on frontend design and core backend logic  
 
-🔹 **Book Recommendation System**  
-- Recommends books based on user preferences  
-- Built using Python and data analysis concepts  
+** 🏠 Wonderlust – Online Renting Platform **
+-A web platform for short-term accommodation rentals where users can find and book places for temporary stays.
 
 *(More projects coming soon 🚧)*
 
@@ -53,9 +52,8 @@ I’m passionate about building practical projects, learning new technologies, a
 
 ## 📜 Certifications
 
-- ✅ Python Programming  
-- ✅ Data Analytics  
-- ✅ Data Visualization  
+- ✅ java Programming  
+- ✅  Mern Stack Development  
 
 ---
 
