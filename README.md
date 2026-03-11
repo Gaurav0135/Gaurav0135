@@ -39,14 +39,32 @@ I’m passionate about building practical projects, learning new technologies, a
 
 ## 📂 Projects
 
-🔹 **Zerodha-Clone - Trading-Platform**  
-- A Zerodha Clone  
-- Focus on frontend design and core backend logic  
+### 🔹 Zerodha Clone – Trading Platform
 
-🔹 🏠 Wonderlust – Online Renting Platform 
--A web platform for short-term accommodation rentals where users can find and book places for temporary stays.
+A clone of the Zerodha trading platform focused on replicating the trading dashboard and core application workflow.
 
-*(More projects coming soon 🚧)*
+**Key Highlights:**
+
+* Interactive trading dashboard UI
+* Implementation of core backend logic
+* Modern responsive frontend design
+
+---
+
+### 🔹 🏠 Wonderlust – Online Renting Platform
+
+A web platform for **short-term accommodation rentals** where users can explore, list, and book places for temporary stays.
+
+**Key Highlights:**
+
+* Browse and manage accommodation listings
+* Add and manage rental properties
+* Simple and user-friendly booking interface
+
+---
+
+🚧 **More projects coming soon as I continue building and learning.**
+
 
 ---
 
