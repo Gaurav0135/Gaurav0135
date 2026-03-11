@@ -43,7 +43,7 @@ I’m passionate about building practical projects, learning new technologies, a
 - A Zerodha Clone  
 - Focus on frontend design and core backend logic  
 
-** 🏠 Wonderlust – Online Renting Platform **
+🔹 🏠 Wonderlust – Online Renting Platform 
 -A web platform for short-term accommodation rentals where users can find and book places for temporary stays.
 
 *(More projects coming soon 🚧)*
