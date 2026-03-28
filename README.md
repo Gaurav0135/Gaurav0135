@@ -7,7 +7,7 @@ I’m passionate about building practical projects, learning new technologies, a
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** (2022–2026)
 - 🌱 Currently learning **Web-development & DevOps-Eng.**
@@ -16,7 +16,7 @@ I’m passionate about building practical projects, learning new technologies, a
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages**
 - JavaScript
@@ -51,7 +51,7 @@ A clone of the Zerodha trading platform focused on replicating the trading dashb
 
 ---
 
-### 🔹 🏠 Wonderlust – Online Renting Platform
+### 🔹 Wonderlust – Online Renting Platform
 
 A web platform for **short-term accommodation rentals** where users can explore, list, and book places for temporary stays.
 
