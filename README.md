@@ -43,9 +43,9 @@ I’m passionate about building practical projects, learning new technologies, a
 Full Stack MERN Application A production-ready full-stack application with separate User App and Admin Panel, designed to simulate real-world scalable architecture and secure backend workflows. 
 
 **Key Highlights**: 
-Fully deployed application (Frontend + Backend + Database) 
-JWT-based authentication with protected routes Dedicated Admin Panel for managing users and data 
-Modern responsive UI (works seamlessly on mobile & desktop) Optimized backend APIs for performance and scalability Integration with Cloudinary (media handling) and Brevo (email services)
+*Fully deployed application (Frontend + Backend + Database) 
+*JWT-based authentication with protected routes Dedicated Admin Panel for managing users and data 
+*Modern responsive UI (works seamlessly on mobile & desktop) Optimized backend APIs for performance and scalability Integration with Cloudinary (media handling) and Brevo (email services)
 
 ### 🔹 Zerodha Clone – Trading Platform
 
